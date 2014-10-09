@@ -1,0 +1,30 @@
+{
+  "name": "less",
+  "version": "1.1.1",
+  "description": "angular less",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Oprisor",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dktrvamp/dktrvamp.git"
+  },
+  "keywords": [
+    "angular",
+    "less",
+    "css",
+    "routing",
+    "directive",
+    "service",
+    "app",
+    "nav",
+    "grunt",
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/dktrvamp/dktrvamp/issues"
+  }
+}
